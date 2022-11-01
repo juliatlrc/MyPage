@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&family=Six+Caps&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed&family=Six+Caps&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fanwood+Text&display=swap');
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-image: url('https://i.pinimg.com/originals/bc/ab/0c/bcab0c50a5382497d995de4fd246345a.png');
+}
+h1{
+  font-family: 'Vollkorn SC', serif;
+  font-size: 80px;
+  text-align: center;
+  margin: 50px;
+  padding: 10px;
+  color: #60412F;
+}
+
+main {
+  background: #fff;
+  margin: 100px;
+  padding: 100px;
+  border-radius: 30px;
+  font-family: 'Fanwood Text', serif;
+  font-size: 20px;
+  
+}
+
+nav{
+  text-align: center;
+  justify-content: flex-end;
+  font-size: 30px;
+}
+a{
+  color: #fff;
+  background: #6B2800;
+  text-decoration: none;
+  margin: 10px;
+  padding: 10px; 
+  border-radius: 10px;
+  font-family: 'Fira Sans Condensed', sans-serif;
+  
+}
+a:hover{
+  background: #D7C99F;
+  -webkit-transition-duration: .70s;
+}
+
+h2 {
+  font-family: 'Fira Sans Condensed', sans-serif;
+}
+strong{
+  color: #D76249;
+}
+i {
+  color: #D76249;
+}
+footer {
+  font-family: 'Fira Sans Condensed', sans-serif;
+  color: #fff;
+  text-align: center;
+  justify-content: center;
+  margin-block: 390px;
+  background: #6B2800;
+}
+footer:hover{
+  -webkit-transition-duration: .50s;
+  opacity: 0.6;
+}
+
+.imagens {
+  text-align: center;
+}
+
+
